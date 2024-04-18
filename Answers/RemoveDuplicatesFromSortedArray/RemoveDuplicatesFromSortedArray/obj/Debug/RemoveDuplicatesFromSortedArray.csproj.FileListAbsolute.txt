@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\RemoveDuplicatesFromSortedArray.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\RemoveDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\RemoveDuplicatesFromSortedArray.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\RemoveDuplicatesFromSortedArray.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\RemoveDuplicatesFromSortedArray.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\RemoveDuplicatesFromSortedArray.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\RemoveDuplicatesFromSortedArray.pdb

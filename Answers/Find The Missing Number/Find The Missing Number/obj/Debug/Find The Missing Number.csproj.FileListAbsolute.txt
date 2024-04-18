@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\bin\Debug\Find The Missing Number.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\bin\Debug\Find The Missing Number.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\bin\Debug\Find The Missing Number.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\obj\Debug\Find The Missing Number.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\obj\Debug\Find The Missing Number.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\obj\Debug\Find The Missing Number.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Find The Missing Number\Find The Missing Number\obj\Debug\Find The Missing Number.pdb

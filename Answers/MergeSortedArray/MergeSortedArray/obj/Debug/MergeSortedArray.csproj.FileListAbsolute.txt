@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.pdb

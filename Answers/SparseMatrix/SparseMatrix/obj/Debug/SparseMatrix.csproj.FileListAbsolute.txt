@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\bin\Debug\SparseMatrix.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\bin\Debug\SparseMatrix.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\bin\Debug\SparseMatrix.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\obj\Debug\SparseMatrix.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\obj\Debug\SparseMatrix.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\obj\Debug\SparseMatrix.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\SparseMatrix\SparseMatrix\obj\Debug\SparseMatrix.pdb

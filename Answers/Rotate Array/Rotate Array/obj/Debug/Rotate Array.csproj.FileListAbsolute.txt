@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\bin\Debug\Rotate Array.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\bin\Debug\Rotate Array.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\bin\Debug\Rotate Array.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\obj\Debug\Rotate Array.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\obj\Debug\Rotate Array.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\obj\Debug\Rotate Array.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Rotate Array\Rotate Array\obj\Debug\Rotate Array.pdb
