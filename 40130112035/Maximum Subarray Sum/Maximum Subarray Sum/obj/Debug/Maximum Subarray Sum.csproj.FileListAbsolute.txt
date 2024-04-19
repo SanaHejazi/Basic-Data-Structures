@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\bin\Debug\Maximum Subarray Sum.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\bin\Debug\Maximum Subarray Sum.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\bin\Debug\Maximum Subarray Sum.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\obj\Debug\Maximum Subarray Sum.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\obj\Debug\Maximum Subarray Sum.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\obj\Debug\Maximum Subarray Sum.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Matris\Basic-Data-Structures\Answers\Maximum Subarray Sum\Maximum Subarray Sum\obj\Debug\Maximum Subarray Sum.pdb
